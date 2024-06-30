@@ -89,7 +89,7 @@ Install my-project with npm
 ![1](https://user-images.githubusercontent.com/90745903/236361005-89f40e51-3aff-4e66-8aa2-941138a15316.png)
 
 #### Admin Add Product
-![image](https://github.com/mightyeagle320/nextjs-ecommerce/assets/90745903/8c2129fa-bbc4-4d03-b249-a9e4a26ba769)
+![image](https://private-user-images.githubusercontent.com/90745903/238106828-8c2129fa-bbc4-4d03-b249-a9e4a26ba769.png)
 
 #### Admin Add Category
 ![image](https://user-images.githubusercontent.com/90745903/236360988-8b7e6307-5365-4486-8404-b8ddaf1ab486.png)
