@@ -1,6 +1,7 @@
 #### App is live and running at 
 
-### https://nextjs-ecommerce-typescript.vercel.app/
+### https://nextjs-ecommerce-six-blond.vercel.app
+
 
 
  - don't forget to leave a star ! :)
